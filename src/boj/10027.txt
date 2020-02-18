@@ -1,0 +1,29 @@
+22
+<div id='a' class='banana mango'>
+<div id='b' class='orange'>
+<div id='c' class='banana'>
+<div id='d' class='apple mango orange'>
+<div id='e' class='orange'>
+</div>
+</div>
+</div>
+</div>
+<div id='f' class='orange apple'>
+<div id='g' class='apple'>
+<div id='h' class='orange apple'>
+<div id='i' class='banana'>
+</div>
+</div>
+</div>
+<div id='j' class='banana'>
+</div>
+</div>
+</div>
+<div id='k' class='glupo voce daj mi sarme'>
+</div>
+5
+.banana
+.banana > .sarme
+.banana > .orange > .banana
+.banana .apple.orange > .orange
+.mango > .orange .banana
